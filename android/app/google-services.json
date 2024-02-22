@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "24710644381",
+    "project_id": "zoom-clone-55c64",
+    "storage_bucket": "zoom-clone-55c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24710644381:android:d2aab695d381b9ef3b8a74",
+        "android_client_info": {
+          "package_name": "com.example.flutter_zoom_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24710644381-dc40btvv58l8dmhnm55iarsghai939vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0fL927QADYZt3EYDpUXBnfqpt4TWrcSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24710644381-dc40btvv58l8dmhnm55iarsghai939vd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "24710644381-9bnghutkpbi1aehjbkrl5silvv0tb12s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterZoomClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24710644381:android:ee22a01498511dee3b8a74",
+        "android_client_info": {
+          "package_name": "com.mahek.zoom_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24710644381-12un8f9np1mut33s3mim1g967j653o47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahek.zoom_clone",
+            "certificate_hash": "b1ef12ed82d3f7ff43ae454ab1adc756546502cb"
+          }
+        },
+        {
+          "client_id": "24710644381-fuujq8e9b0s7maa70enh8cv98a4jda8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahek.zoom_clone",
+            "certificate_hash": "634607e0a9b307984aa77348af4e0d83c5343421"
+          }
+        },
+        {
+          "client_id": "24710644381-dc40btvv58l8dmhnm55iarsghai939vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0fL927QADYZt3EYDpUXBnfqpt4TWrcSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24710644381-dc40btvv58l8dmhnm55iarsghai939vd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "24710644381-9bnghutkpbi1aehjbkrl5silvv0tb12s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterZoomClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
